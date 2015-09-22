@@ -21,3 +21,7 @@
 ##### [MAG3110](https://drive.google.com/file/d/0BxFmdbDFd-sDQ2xuX1dVUVpjQVU/view?usp=sharing)
 
 ##### [HMC5883L](https://drive.google.com/file/d/0BxFmdbDFd-sDY1gwMjd2MUE3V28/view?usp=sharing)
+
+#### Sensor de temperatura
+
+##### [HTU21D] (https://drive.google.com/file/d/0BxFmdbDFd-sDNjdBOWFiMWNSTVk/view?usp=sharing)
