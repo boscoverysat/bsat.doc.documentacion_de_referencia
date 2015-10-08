@@ -16,6 +16,10 @@
 
 ##### [ADXL335](https://drive.google.com/file/d/0BxFmdbDFd-sDMTI5NW9rMWU2M0U/view?usp=sharing)
 
+#### Acelerómetro y giróscopo.
+
+##### [MPU-6050A](https://drive.google.com/file/d/0BxFmdbDFd-sDUkdmcGotN282Zmc/view?usp=sharing)
+
 #### Magnetómetros
 
 ##### [MAG3110](https://drive.google.com/file/d/0BxFmdbDFd-sDQ2xuX1dVUVpjQVU/view?usp=sharing)
