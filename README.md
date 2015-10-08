@@ -18,7 +18,9 @@
 
 #### Acelerómetro y giróscopo.
 
-##### [MPU-6050A](https://drive.google.com/file/d/0BxFmdbDFd-sDUkdmcGotN282Zmc/view?usp=sharing)
+##### [MPU-6050](https://drive.google.com/file/d/0BxFmdbDFd-sDUkdmcGotN282Zmc/view?usp=sharing)
+
+##### [MPU-6050]Página de Arduino playground (http://playground.arduino.cc/Main/MPU-6050)
 
 #### Magnetómetros
 
