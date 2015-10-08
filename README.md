@@ -22,6 +22,8 @@
 
 ##### [MPU-6050 Página de Arduino playground](http://playground.arduino.cc/Main/MPU-6050)
 
+##### [MPU-6050 Mapa de registros de MPU-6050](https://drive.google.com/file/d/0BxFmdbDFd-sDOGZFYnI4a3JjSnM/view?usp=sharing)
+
 #### Magnetómetros
 
 ##### [MAG3110](https://drive.google.com/file/d/0BxFmdbDFd-sDQ2xuX1dVUVpjQVU/view?usp=sharing)
