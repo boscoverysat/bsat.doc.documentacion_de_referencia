@@ -33,3 +33,9 @@
 #### Sensor de temperatura
 
 ##### [HTU21D] (https://drive.google.com/file/d/0BxFmdbDFd-sDNjdBOWFiMWNSTVk/view?usp=sharing)
+
+### Cámara
+
+#### [OV7670 Datasheet] (https://drive.google.com/file/d/0B8SkfxGRV_a-a1hRS0l1QVdXVXM/view?usp=sharing)
+
+#### [OV7670 Blog Post] (http://embeddedprogrammer.blogspot.com.es/2012/07/hacking-ov7670-camera-module-sccb-cheat.html)
